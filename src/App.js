@@ -18,6 +18,8 @@ const content = [
   },
 ];
 
+// TODO : MAke the whole website better.
+
 export default function App() {
   return (
     <div>
